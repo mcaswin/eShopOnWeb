@@ -1,4 +1,5 @@
 ﻿//First commit
+//Second commit
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
@@ -6,7 +7,7 @@ using BlazorAdmin;
 using BlazorAdmin.Services;
 using Blazored.LocalStorage;
 using BlazorShared;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Cookies;cls
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
